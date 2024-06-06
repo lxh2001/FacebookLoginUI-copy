@@ -1,0 +1,154 @@
+.facebook{
+    padding-top: 72px;
+    padding-bottom: 112px;
+}
+._facebook{
+    width: 980px;
+    margin: 0 auto;
+    padding: 20px 0
+}
+._facebook .one{
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 580px;
+}
+.one{
+    display: inline-block;
+    vertical-align: top;
+}
+.two{
+    display: inline-block;
+    vertical-align: top;
+}
+.onea{
+    padding: 112px 0 16px;
+
+}
+.honea{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.75em;
+    letter-spacing: -2px;
+    text-decoration: none;
+    color: rgb(8, 102, 255);
+}
+h1 .honea{
+    height: 106px;
+    margin: -28px
+}
+.htwoa{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    
+}
+h2 .htwoa{
+    padding: 0 0 20px;
+}
+.two{
+    display: inline-block;
+    vertical-align: top;
+}
+.twoa{
+    height: 456px;
+    width: 396px;
+}
+
+.twoa .onep{
+    padding: 10px 0 24px 0;
+}
+.onep{
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+
+}
+
+.twoa .input{
+    font-size: 17px;
+    width: 364px;
+}
+.input{
+    display: inline-block;
+    font-size: 14px;
+    margin: auto;
+    padding: 6px 0;
+    width: 302px;
+}
+/*---*/
+
+.twoa .input ._input{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    margin: 0;
+}
+.input ._input{
+    font-size: 14px;
+    padding: 5px 8px;
+    width: 284px;
+}
+
+html ._input{
+    background: white;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    height: 22px;
+    line-height: 16px;
+    padding: 0 8px;
+    vertical-align: middle;
+    margin: 0;
+    
+}
+
+/* --- */
+
+.btn{
+    padding-top: 6px;
+}
+.twoa .button:hover {
+    background-color: #1877f2;
+}
+.button:hover{
+    border-color: #365899;
+    text-decoration: none;
+}
+.twoa .button{
+    background-color: #0866ff;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+
+}
+.button{
+    color: #fff;
+    box-sizing: content-box;
+    font-weight: bold;
+    position:relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    white-space-collapse: collapse;
+    text-wrap: nowrap;
+}
+button{
+    margin: 0;
+}
